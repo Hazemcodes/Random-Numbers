@@ -1,4 +1,4 @@
- package Randomnumbers;
+ package RandomNumbers;
 import java.util.Random;
 public class Randomnums {
 
